@@ -1,1 +1,3 @@
 Learning GIT and hopefully solving conflicts
+and NOW...
+I've got git configured with ssh-key
